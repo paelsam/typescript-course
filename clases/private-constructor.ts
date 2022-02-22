@@ -17,7 +17,7 @@
 
     const apocalipsis = Apocalipsis.callApocalipsis('Apocalipsis!');
     const apocalipsis2 = Apocalipsis.callApocalipsis('');
-    console.log({apocalipsis});
-    console.log({apocalipsis2});
+    // console.log({apocalipsis});
+    // console.log({apocalipsis2});
     
 })()
